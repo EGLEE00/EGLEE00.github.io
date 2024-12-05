@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Profile"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Works"
